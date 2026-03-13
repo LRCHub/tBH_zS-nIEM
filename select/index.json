@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "倔強",
+  "base_artist": "五月天",
+  "createdAt": "2026-03-13T18:18:10.800891Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paradise + 倔強 - Live",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/01_Paradise_+_倔強_-_Live_五月天.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "倔強 (Live)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/02_倔強_(Live)_五月天.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "倔強",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/03_倔強_五月天.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "倔強",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/04_倔強_五月天.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "倔強(3DNA LIVE 版)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/05_倔強(3DNA_LIVE_版)_五月天.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "倔強(3DNA LIVE 版)",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/06_倔強(3DNA_LIVE_版)_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "倔強",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/07_倔強_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "倔強",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/08_倔強_五月天.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "倔強 Life Live",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/09_倔強_Life_Live_五月天.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paradise + 倔強 - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/10_Paradise_+_倔強_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "倔強",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/11_倔強_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "倔強",
+      "artist": "Rainie Yang",
+      "has_synced": true,
+      "path": "select/12_倔強_Rainie_Yang.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "倔強(3DNA追夢版)",
+      "artist": "Jia Jia",
+      "has_synced": true,
+      "path": "select/13_倔強(3DNA追夢版)_Jia_Jia.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "倔強 Life Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/14_倔強_Life_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "倔強 - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/15_倔強_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "倔強 live in the sky",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/16_倔強_live_in_the_sky_Mayday.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "倔強",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/pl_01_倔強_Mayday.txt"
+    }
+  ]
+}
